@@ -1,0 +1,57 @@
+############################
+# Godot 4
+############################
+.import/
+.export/
+.export_presets.cfg
+.godot/
+
+# Godot caches & temp
+*.godot
+*.tmp
+*.log
+
+############################
+# Android / Java / Gradle
+############################
+android/
+build/
+gradle/
+.gradle/
+local.properties
+
+# JDK / SDK (NEVER COMMIT)
+jdk*/
+jdk*/
+android-sdk*/
+ndk*/
+sdk*/
+
+############################
+# Exports / Builds
+############################
+*.apk
+*.aab
+*.xapk
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tar.xz
+
+############################
+# OS / Editor junk
+############################
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+############################
+# IDEs
+############################
+.idea/
+.vscode/
+*.iml
+
