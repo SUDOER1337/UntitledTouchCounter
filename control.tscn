@@ -22,7 +22,7 @@ script = ExtResource("1_62e2m")
 layout_mode = 1
 offset_left = -172.0
 offset_top = -248.0
-offset_right = 1274.0
+offset_right = 2042.0
 offset_bottom = 1313.0
 
 [node name="Label" type="Label" parent="."]
